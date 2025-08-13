@@ -142,3 +142,11 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.activity-participants ul {
+  list-style-type: disc;
+  margin-left: 28px;
+  color: #333;
+  font-size: 15px;
+  padding-left: 8px;
+}
